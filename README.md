@@ -69,7 +69,6 @@ print("Confusion Matrix:\n",conf_matrix)
 print("Classification Report:\n",classification_rep)
 ```
 
-
 <H3>Output:</H3>
 
 <img width="592" height="620" alt="image" src="https://github.com/user-attachments/assets/17f488c5-ae03-4e65-bd16-3ef32e723484" />
